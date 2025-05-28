@@ -1,0 +1,17 @@
+{
+  "name": "Dual Index Calculator",
+  "short_name": "Dual Index Calculator",
+  "description": "Dual Index Calculator for analytical chemistry methods",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "generated-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "offline_enabled": true
+}
